@@ -374,7 +374,7 @@
   /* Section Latest news 
       ============================= */
   
-  .row {
+ .section-lastest-news .row {
     display: flex;
   }
 
